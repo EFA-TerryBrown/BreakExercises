@@ -1,0 +1,20 @@
+Cats Candy Shop
+
+What this app NEEDs to do.
+
+you need a Candy Class -> in the .Data File
+this class has properties:
+-Name
+-CandyType (enum)
+-Price
+
+I need you to create a Repository in the .Repository File
+- The Repository needs to do FULL CRUD (Create, Read, Update, and Delete)
+
+I need a UI that will allow the user to 
+1. View all of the candy in the store
+2. View candy by Id
+3. Add Candy To the store
+4. Remove Candy From the store
+
+
