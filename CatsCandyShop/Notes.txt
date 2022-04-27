@@ -15,7 +15,8 @@ I need a UI that will allow the user to
 1. View all of the candy in the store
 2. View candy by Id
 3. Add Candy To the store
-4. Remove Candy From the store
+4. Update Candy Item
+5. Remove Candy From the store
 
 
 public enum CandyType
