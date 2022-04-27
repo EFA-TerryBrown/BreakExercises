@@ -5,7 +5,7 @@ What this app NEEDs to do.
 you need a Candy Class -> in the .Data File
 this class has properties:
 -Name
--CandyType (enum)
+-CandyType (enum) 
 -Price
 
 I need you to create a Repository in the .Repository File
@@ -18,3 +18,10 @@ I need a UI that will allow the user to
 4. Remove Candy From the store
 
 
+public enum CandyType
+{
+    Gum=1,
+    Gummy,
+    HardCandy,
+    Chips
+}
